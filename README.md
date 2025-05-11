@@ -7,7 +7,7 @@
 
 ---
 
-# 👨‍💻 Author ✍🏼
+# 👨‍💻 Authors ✍🏼
 
 <table>
   <tr>
